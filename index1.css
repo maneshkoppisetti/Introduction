@@ -1,0 +1,29 @@
+body
+    {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 10px;
+        padding: 300px;
+        background-color: cyan;
+
+    }
+.image
+{
+    border-radius: 50%;
+    height : 70px;
+    width: 70px;
+}
+.href1
+{
+    display: inline;
+}
+.href2
+{
+    display: inline;
+}
+.imagelink
+{
+    display: inline;
+    border-radius: 50%;
+    height : 50px;
+    width: 50px;  
+}
