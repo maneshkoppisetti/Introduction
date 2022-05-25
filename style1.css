@@ -33,6 +33,7 @@ grid-area: info;
 {
     grid-area: link;
 display: flex;
+  justify-content: space-between;
 }
 .ll
 {
