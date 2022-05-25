@@ -2,7 +2,7 @@
 {
 display: grid;
 grid-gap: 1rem;
-margin: 15% 10% 10% 15%;
+margin: 8% 10% 7% 15%;
 background-color: rgba(227, 226, 226, 0.58);
 padding: 5% 5% 5% 5%;
 grid-template-areas: 
@@ -24,6 +24,7 @@ grid-area: info;
 }
 .ite{
     font-size: larger;
+  font-style: italic;
 }
 .links
 {
