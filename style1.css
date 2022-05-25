@@ -1,3 +1,7 @@
+*
+{
+    /* border: 1px solid red; */
+}
 .container
 {
 display: grid;
@@ -17,6 +21,7 @@ grid-template-areas:
 .propic
 {
     border-radius: 50%;
+    width: 10%;
 }
 .info
 {
@@ -24,7 +29,7 @@ grid-area: info;
 }
 .ite{
     font-size: larger;
-  font-style: italic;
+    font-style: italic;
 }
 .links
 {
@@ -63,4 +68,14 @@ grid-area: info;
     'link link link';
     }
   
+}
+@media only screen and (min-width:300px)and (max-width:500px){
+   
+}
+
+@media only screen and (min-width:500px)and (max-width:800px){
+    
+}
+@media only screen and (min-width:800px){
+    
 }
